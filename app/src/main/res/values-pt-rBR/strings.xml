@@ -22,8 +22,8 @@
   <string name="scrolling_forward">Rolando para frente</string>
   <string name="page_updn_header">Page Up / Page Down</string>
   <string name="page_updn_content">NOTA: Isso deve estar ativado nas configurações.\n\nPassando seu dedo para cima e para baixo na terceira parte da esquerda da tela irá enviar um comandos de page up e page down para o hospedeiro remoto. Muitos programas mapeiam isso como rolagem traseira no histórico, tais como irssi ou tinyfugue.</string>
-  <string name="page_up">Página para cima</string>
-  <string name="page_down">Página para baixo</string>
+  <string name="page_up">Página acima</string>
+  <string name="page_down">Página abaixo</string>
   <string name="switching_hosts_header">Trocando de hospedeiro</string>
   <string name="switching_hosts_content">Passando seu dedo de um lado da tela para o outro irá trocar os hospedeiros atualmente conectados.</string>
   <string name="next_host">Próximo hospedeiro</string>
@@ -87,7 +87,7 @@
   <string name="pref_emulation_summary">Modo de emulação do terminal com conexões PTY</string>
   <string name="pref_scrollback_title">Tamanho do buffer da tela</string>
   <string name="pref_scrollback_summary">Tamanho do buffer de memória a manter para cada terminal</string>
-  <string name="pref_backupkeys_title">Salavar chaves publicas</string>
+  <string name="pref_backupkeys_title">Salvar chaves publicas</string>
   <string name="pref_backupkeys_summary">Mantenha os backups das chaves privadas usando o mecanismo de backup do Android</string>
   <string name="pref_ui_category">Interface do usuário</string>
   <string name="pref_rotation_title">Rotação da tela</string>
@@ -98,7 +98,7 @@
   <string name="pref_pg_updn_gesture_title">Gesto de page up/down</string>
   <string name="pref_pg_updn_gesture_summary">Passe sobre a terceira parte da tela à esquerda para enviar comandos de page up/down para o terminal</string>
   <string name="pref_fullscreen_title">Tela cheia</string>
-  <string name="pref_fullscreen_summary">Ocultar a barra de estatus no modo terminal</string>
+  <string name="pref_fullscreen_summary">Ocultar a barra de status no modo terminal</string>
   <string name="pref_keyboard_category">Teclado</string>
   <string name="pref_shiftfkeys_title">Shift +número são as teclas Fn</string>
   <string name="pref_shiftfkeys_summary">Em teclados físicos, as teclas numéricas enviam F1 à F10 com shift</string>
@@ -125,7 +125,7 @@
   <string name="pref_bumpyarrows_summary">Vibrar ao usar as setas; útil para conexões lentas</string>
   <string name="pref_bell_category">Alerta do terminal</string>
   <string name="pref_bell_title">Alerta audível</string>
-  <string name="pref_bell_volume_title">Volume dos alerta</string>
+  <string name="pref_bell_volume_title">Volume dos alertas</string>
   <string name="pref_bell_vibrate_title">Vibrar ao alertar</string>
   <string name="pref_bell_notification_title">Enviar notificações visuais quando em segundo plano</string>
   <string name="pref_bell_notification_summary">Enviar notificações sonoras quando em segundo plano</string>
@@ -137,7 +137,7 @@
   <string name="hostpref_nickname_title">Apelido</string>
   <string name="hostpref_color_title">Categoria de cor</string>
   <string name="hostpref_fontsize_title">Tamanho da fonte (pontos)</string>
-  <string name="hostpref_pubkeyid_title">Usar autenticação por chave púbilca</string>
+  <string name="hostpref_pubkeyid_title">Usar autenticação por chave pública</string>
   <string name="hostpref_authagent_title">Usar agente de autenticação SSH</string>
   <string name="hostpref_postlogin_title">Automação pós-login</string>
   <string name="hostpref_postlogin_summary">Comandos a serem executados no servidor remoto na autenticação</string>
@@ -250,8 +250,8 @@
   <string name="image_description_volume">Volume</string>
   <string name="button_key_esc">Esc</string>
   <string name="button_key_ctrl">Ctrl</string>
-  <string name="button_key_home">Início</string>
-  <string name="button_key_end">Finalizar</string>
+  <string name="button_key_home">Home</string>
+  <string name="button_key_end">End</string>
   <string name="button_key_pgup">PageUp</string>
   <string name="button_key_pgdn">PageDn</string>
   <string name="button_key_f1">F1</string>
